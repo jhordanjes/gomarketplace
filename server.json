@@ -2,27 +2,75 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Tênis de Caminhada Leve Confortável",
+      "image_url": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg",
+      "price": 179.9
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Tênis VR Caminhada Confortável",
+      "image_url": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg",
+      "price": 150
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "image_url": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg",
+      "price": 60
+    },
+    {
+      "id": "1234567",
+      "title": "Tênis Nike Air Max",
+      "image_url": "https://static.netshoes.com.br/produtos/tenis-nike-air-max-excee-masculino/26/HZM-3176-026/HZM-3176-026_zoom1.jpg?ts=1585313462&ims=544x",
+      "price": 399.99
+    },
+    {
+      "id": "12345678",
+      "title": "Tênis Nike Original",
+      "image_url": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg",
+      "price": 80
+    },
+    {
+      "id": "1234555",
+      "title": "Tênis Adidas Falcon",
+      "image_url": "https://static.netshoes.com.br/produtos/tenis-adidas-falcon-feminino/10/COL-4398-010/COL-4398-010_zoom1.jpg?ts=1587440444&ims=544x",
+      "price": 80
+    },
+    {
+      "id": "1238888",
+      "title": "Nome do produto 04",
+      "image_url": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg",
+      "price": 80
+    },
+    {
+      "id": "1236317",
+      "title": "Tênis Adidas",
+      "image_url": "https://wqsurf.vteximg.com.br/arquivos/ids/176391-1000-1000/tenis-adidas-G27637-61607-1.jpg?v=636964006385900000",
+      "price": 80
+    },
+    {
+      "id": "1254578",
+      "title": "Nome do produto 04",
+      "image_url": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg",
+      "price": 80
+    },
+    {
+      "id": "123456",
+      "title": "Camisa leve esportiva",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 70
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "id": "155555",
+      "title": "Tênis Adidas Archivo",
+      "image_url": "https://wqsurf.vteximg.com.br/arquivos/ids/176387-1000-1000/tenis-adidas-G27638-61287-1.jpg?v=636963993764730000",
+      "price": 70
+    },
+    {
+      "id": "1555666",
+      "title": "Tênis Adidas Superstar",
+      "image_url": "https://artwalk.vteximg.com.br/arquivos/ids/213208-1000-1000/Tenis-adidas-Superstar-Infantil-Branco.jpg?v=636936933880670000",
+      "price": 70
     }
   ]
 }

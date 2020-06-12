@@ -88,6 +88,11 @@ export const ActionButton = styled.TouchableOpacity`
   margin-bottom: 5px;
 `;
 
+export const TrashButton = styled.TouchableOpacity`
+  background: transparent;
+  margin-bottom: 5px;
+`;
+
 export const TotalProductsContainer = styled.View`
   position: absolute;
   bottom: 0px;
